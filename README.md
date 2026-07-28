@@ -18,8 +18,10 @@ A modern React-based dashboard for tracking global time zones, live analog and d
 - Dynamic UI controls for 12/24-hour time, seconds, theme, and compact mode
 
 ## Tech Stack
-- React
-- Vite
+- React 19.2.7
+- React DOM 19.2.7
+- Vite 8.1.1
+- ESLint 10.6.0
 - CSS
 
 ## Run locally
