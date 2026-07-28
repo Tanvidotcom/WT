@@ -4,7 +4,11 @@ A modern React-based dashboard for tracking global time zones, live analog and d
 
 ## Screenshot
 
-![World Clock Dashboard screenshot](public/screenshot.png)
+
+<img width="1895" height="909" alt="image" src="https://github.com/user-attachments/assets/4b306bdd-d2ec-47aa-9a63-203a70898d2e" />
+<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/bc253f50-7dec-494d-ad6b-fc119dc03ff4" />
+
+
 
 ## Features
 - Live analog and digital clock rendering
