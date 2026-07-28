@@ -2,14 +2,6 @@
 
 A modern React-based dashboard for tracking global time zones, live analog and digital clocks, and alarms in a single polished interface.
 
-## Screenshot
-
-
-<img width="1895" height="909" alt="image" src="https://github.com/user-attachments/assets/4b306bdd-d2ec-47aa-9a63-203a70898d2e" />
-<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/bc253f50-7dec-494d-ad6b-fc119dc03ff4" />
-
-
-
 ## Features
 - Live analog and digital clock rendering
 - Multiple world time zones with instant updates
@@ -33,10 +25,13 @@ npm run dev
 ## Project Structure
 ```text
 src/
-  App.jsx      # Main dashboard UI and live clock logic
-  App.css      # Visual design and responsive layout
-  index.css    # Global styles
+  App.jsx      
+  App.css    
+  index.css  
 ```
 
-## Demo
-Open the app in your browser at the local Vite URL displayed after running the dev server.
+## Screenshots
+
+
+<img width="1895" height="909" alt="image" src="https://github.com/user-attachments/assets/4b306bdd-d2ec-47aa-9a63-203a70898d2e" />
+<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/bc253f50-7dec-494d-ad6b-fc119dc03ff4" />
